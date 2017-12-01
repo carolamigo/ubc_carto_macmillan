@@ -8,7 +8,7 @@ Linked data web application providing a georeferenced visualization of UBC Open 
 
 ### How to do it
 
-#### Modelling
+#### Modeling
 
 - Download collection metadata using the Open Collections Research API. A php script to batch download is provided at OC API Documentation page > Download Collection Data. This script returns a folder containing one RDF file per collection item (or XML, JSON, any format preferred). We are going to use N-triples because the file is cleaner (no headers or footers), what makes the merging easier later. Edit the script following the instructions on the documentation page and run it using the command:
 
