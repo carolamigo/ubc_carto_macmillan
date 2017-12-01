@@ -2,6 +2,8 @@
 
 Linked data web application providing a georeferenced visualization of UBC Open Collection MacMillan Bloedel Limited fonds metadata, linked to [Geonames](http://www.geonames.org/ontology/documentation.html).
 
+[Link for the application on CARTO.](https://carolamigo.carto.com/builder/881d9644-0439-4131-ad92-c16bcb1e2608/embed)
+
 ![mcmillan_v02.gif](https://github.com/carolamigo/ubc_carto_macmillan/blob/master/mcmillan_v02.gif)
 
 ### How to do it
